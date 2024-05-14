@@ -1,0 +1,7 @@
+name=Divine Shred
+author=50Hz
+description=Made for the Goblin Game Jam Feb 2024
+bundleID=co.50hz.divineshred
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
